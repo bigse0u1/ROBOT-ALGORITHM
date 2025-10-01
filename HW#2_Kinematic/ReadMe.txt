@@ -1,14 +1,16 @@
+Two-link manipulator, Manipulator X, UAV, My Own Robot
+
 1. Two_link_manipuator.m
-- 1¹øÂ° ¸µÅ©(W,s), 2¹øÂ° ¸µÅ©(e, d)
+- 1ë²ˆì§¸ ë§í¬(W,s), 2ë²ˆì§¸ ë§í¬(e, d)
 
 2. Manipulator.m
-- 1¹ø ¸µÅ© zÃà È¸Àü(w, s), 2¹ø ¸µÅ© yÃà È¸Àü(e, d), 3¹ø ¸µÅ© yÃà È¸Àü(r, f), 4¹ø ¸µÅ© yÃà È¸Àü(t, g)
+- 1ë²ˆ ë§í¬ zì¶• íšŒì „(w, s), 2ë²ˆ ë§í¬ yì¶• íšŒì „(e, d), 3ë²ˆ ë§í¬ yì¶• íšŒì „(r, f), 4ë²ˆ ë§í¬ yì¶• íšŒì „(t, g)
 
 3. UAV.m
-- ÀüÁøÈÄÁø(u, j), ¿ÞÂÊ¿À¸¥ÂÊ(i, k), »ó½ÂÇÏ°­(o, l)
+- ì „ì§„í›„ì§„(u, j), ì™¼ìª½ì˜¤ë¥¸ìª½(i, k), ìƒìŠ¹í•˜ê°•(o, l)
 - pitch(w, s), yaw(a, d), roll(q, e)
 
 4. My_Own_Robot.m
-- ±×·ìA(°ËÁö, ÁßÁö): 1°üÀý(w, s), 2°üÀý(e, d), 3°üÀý(r, f)
-- ±×·ìB(¾àÁö, »õ³¢): 1°üÀý(I, k), 2°üÀý(o, l), 3°üÀý(p, ;)
-- ¾öÁö: 1°üÀý(t, g), 2°üÀý(y, h)
+- ê·¸ë£¹A(ê²€ì§€, ì¤‘ì§€): 1ê´€ì ˆ(w, s), 2ê´€ì ˆ(e, d), 3ê´€ì ˆ(r, f)
+- ê·¸ë£¹B(ì•½ì§€, ìƒˆë¼): 1ê´€ì ˆ(I, k), 2ê´€ì ˆ(o, l), 3ê´€ì ˆ(p, ;)
+- ì—„ì§€: 1ê´€ì ˆ(t, g), 2ê´€ì ˆ(y, h)
